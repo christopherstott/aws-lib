@@ -1,7 +1,7 @@
 {
   "name": "aws-item-lib",
   "description": "Extensible Node.js library for the Amazon Web Services API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/francisco-navarro/aws-lib",
   "keywords": ["amazon","aws", "ec2", "product advertising", "simpledb", "Simple Queue Service", "SQS", "Simple Email Service", "SES"],
   "repository": "git://github.com/francisco-navarro/aws-lib.git",
