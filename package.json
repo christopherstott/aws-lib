@@ -1,11 +1,11 @@
 {
-  "name": "aws-lib",
+  "name": "aws-item-lib",
   "description": "Extensible Node.js library for the Amazon Web Services API",
-  "version": "0.0.5",
-  "homepage": "http://github.com/livelycode/aws-lib",
+  "version": "0.0.4",
+  "homepage": "https://github.com/francisco-navarro/aws-lib",
   "keywords": ["amazon","aws", "ec2", "product advertising", "simpledb", "Simple Queue Service", "SQS", "Simple Email Service", "SES"],
-  "repository": "git://github.com/livelycode/aws-lib.git",
-  "author": "Mirko Kiefer <mail@mirkokiefer.com> (http://mirkokiefer.com)",
+  "repository": "git://github.com/francisco-navarro/aws-lib.git",
+  "author": "Francisco Navarro <packarbell@gmail.com>",
   "contributors": [
     "Mirko Kiefer <mail@mirkokiefer.com> (http://mirkokiefer.com)",
     "Paul Bonser <pib@paulbonser.com> (http://probablyprogramming.com)",
